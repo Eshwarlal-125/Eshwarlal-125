@@ -86,21 +86,33 @@ My goal is to build scalable applications, write clean and maintainable code, an
 > "I believe software is more than just code—it's about solving real-world problems, creating meaningful experiences, and continuously improving through learning and practice."
 
 ---
-# 📊 GitHub Analytics
+# 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eshwarlal-125&show_icons=true&theme=tokyonight&hide_border=true"/>
+<a href="www.linkedin.com/in/eshwar-lal-b070a336b" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eshwarlal-125&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Eshwarlal-125&theme=tokyonight&hide_border=true"/>
+<a href="mailto:laleshwar35@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
 
 ---
+# 👀 Profile Views
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=Eshwarlal-125&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
+</div>
+
