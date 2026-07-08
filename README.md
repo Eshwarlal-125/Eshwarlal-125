@@ -81,6 +81,13 @@ My goal is to build scalable applications, write clean and maintainable code, an
 - 🤝 Preparing for Open Source Contributions
 
 ---
+## 🏆 Certifications
+
+🎖️ **Sibathon Participation Certificate**  
+*Recognized for participating in the Sibathon event, demonstrating teamwork, problem-solving, and innovation.*
+
+🎖️ **Git & GitHub Workshop Certificate**  
+*Completed a hands-on workshop covering Git version control, GitHub repositories, branching, commits, and collaboration workflows.*
 # 💡 Developer Mindset
 
 > "I believe software is more than just code—it's about solving real-world problems, creating meaningful experiences, and continuously improving through learning and practice."
