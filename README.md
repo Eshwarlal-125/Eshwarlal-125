@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Eshwar Lal
 
-### 💻 Full Stack Developer | Software Engineer in Progress | Problem Solver
+### 💻 Computer Science Student | Java & MERN Developer | Software Engineer in Progress
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Java+%7C+Python+%7C+MERN+Stack;Building+Scalable+Applications;Always+Learning+New+Technologies" />
 
@@ -11,11 +11,11 @@
 ---
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Developer** and **Computer Science student** who enjoys building modern web applications and solving real-world problems through technology.
+I'm a Computer Science student passionate about software development and building practical applications.
 
-I enjoy working across both frontend and backend development while continuously exploring modern technologies and software engineering best practices.
+I enjoy working with Java, Python, JavaScript, React, Node.js, Express, MongoDB, and MySQL while continuously improving my problem-solving and software engineering skills.
 
-My goal is to build scalable applications, write clean and maintainable code, and grow as a software developer through real-world projects.
+My goal is to build scalable applications, write clean code, and contribute to real-world projects as I grow into a professional software engineer.
 
 - 💻 Full Stack Web Developer
 - 🚀 Passionate about Software Engineering
@@ -24,6 +24,22 @@ My goal is to build scalable applications, write clean and maintainable code, an
 - 🤝 Open to collaboration on interesting projects
 
 ---
+# 🚀 Featured Projects
+
+## 🎓 Student Management System
+Java Swing | JDBC | MySQL
+
+✔ Role-Based Authentication
+
+✔ Attendance Management
+
+✔ Fee Management
+
+✔ Report Generation
+
+🔗 **Repository:**  
+[Student Management System](https://github.com/Eshwarlal-125/Student-Management-System-Java)
+
 # 💻 Tech Stack
 
 ### Programming Languages
