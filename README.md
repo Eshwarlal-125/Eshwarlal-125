@@ -39,6 +39,7 @@ A full-stack web application for employee, department, leave, salary, and profil
 **Java Swing | JDBC | MySQL**
 
 A desktop application for managing student records, attendance, fees, and reports using role-based authentication.
+
 ---
 # 💻 Tech Stack
 
@@ -103,7 +104,7 @@ A desktop application for managing student records, attendance, fees, and report
 - 🌐 Networking Certificate of Appreciation 
 - 🎖️ Git & GitHub Workshop Certificate
 - 🏅 Sibathon Participation Certificate
-
+---
 # 💡 Developer Mindset
 
 > "I believe software is more than just code—it's about solving real-world problems, creating meaningful experiences, and continuously improving through learning and practice."
