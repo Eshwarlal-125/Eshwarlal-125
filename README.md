@@ -13,7 +13,7 @@
 
 I'm a Computer Science student passionate about software development and building practical applications.
 
-I enjoy working with Java, Python, JavaScript, React, Node.js, Express, MongoDB, and MySQL while continuously improving my problem-solving and software engineering skills.
+I enjoy building full-stack web applications using the MERN Stack and developing desktop applications with Java. I'm continuously improving my software engineering, backend development, and problem-solving skills by building real-world projects.
 
 My goal is to build scalable applications, write clean code, and contribute to real-world projects as I grow into a professional software engineer.
 
@@ -26,20 +26,20 @@ My goal is to build scalable applications, write clean code, and contribute to r
 ---
 # 🚀 Featured Projects
 
-## 🎓 Student Management System
-Java Swing | JDBC | MySQL
+## 💼 **[Employee Management System](https://github.com/Eshwarlal-125/EmployeeManagementSystem)**
 
-✔ Role-Based Authentication
+**MERN Stack | React.js • Node.js • Express.js • MongoDB**
 
-✔ Attendance Management
+A full-stack web application for employee, department, leave, salary, and profile management with dedicated Admin and Employee dashboards.
 
-✔ Fee Management
+---
 
-✔ Report Generation
+## 🎓 **[Student Management System](https://github.com/Eshwarlal-125/Student-Management-System-Java)**
 
-🔗 **Repository:**  
-[Student Management System](https://github.com/Eshwarlal-125/Student-Management-System-Java)
+**Java Swing | JDBC | MySQL**
 
+A desktop application for managing student records, attendance, fees, and reports using role-based authentication.
+---
 # 💻 Tech Stack
 
 ### Programming Languages
@@ -85,7 +85,7 @@ Java Swing | JDBC | MySQL
 
 📈 Problem Solving & Data Structures
 
-🌍 Building Real-World Software Solutions
+🌍 Building Real-World Web Applications
 
 ---
 # 🌱 Currently Working On
@@ -99,11 +99,11 @@ Java Swing | JDBC | MySQL
 ---
 ## 🏆 Certifications
 
-🎖️ **Sibathon Participation Certificate**  
-*Recognized for participating in the Sibathon event, demonstrating teamwork, problem-solving, and innovation.*
+- 🎓 Diploma in Information Technology (DIT) 
+- 🌐 Networking Certificate of Appreciation 
+- 🎖️ Git & GitHub Workshop Certificate
+- 🏅 Sibathon Participation Certificate
 
-🎖️ **Git & GitHub Workshop Certificate**  
-*Completed a hands-on workshop covering Git version control, GitHub repositories, branching, commits, and collaboration workflows.*
 # 💡 Developer Mindset
 
 > "I believe software is more than just code—it's about solving real-world problems, creating meaningful experiences, and continuously improving through learning and practice."
